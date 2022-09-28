@@ -1,9 +1,7 @@
 高校社团管理系统（javaweb）
 
 
-项目代码已收录公众号【java项目源码】，需要请自行关注一下公众号并下载源码
-
-![公众号二维码](./运行截图/wechat.png)
+源码下载：http://www.manoncode.cn/details?id=19
 
 
 CSDN博客地址：https://blog.csdn.net/mataodehtml/article/details/118494469
